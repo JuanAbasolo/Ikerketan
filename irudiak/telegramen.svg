@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,7 +47,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="2.6614583"
-     inkscape:cx="142.85102"
+     inkscape:cx="74.655324"
      inkscape:cy="26.883086"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -100,42 +100,10 @@
        style="fill:#ffffff" />
   </clipPath>
   <g
-     clip-path="url(#a)"
-     id="g12"
-     transform="scale(1.671233,1)">
-    <path
-       d="M 0,0 35,0 35,20 0,20 Z"
-       id="path14"
-       inkscape:connector-curvature="0"
-       style="fill:#555555" />
-    <path
-       d="m 35,0 61,0 0,20 -61,0 z"
-       id="path16"
-       inkscape:connector-curvature="0"
-       style="fill:#007ec6" />
-    <path
-       d="M 0,0 96,0 96,20 0,20 Z"
-       id="path18"
-       style="fill:url(#b)"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
      font-size="110"
      id="g20"
      style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
      transform="translate(22.919765,0)">
-    <text
-       x="82.5"
-       y="15"
-       textLength="510"
-       id="text26"
-       style="font-size:11px;fill:#010101;fill-opacity:0.3">@JuanAbasolo</text>
-    <text
-       x="82.5"
-       y="14"
-       textLength="510"
-       id="text28"
-       style="font-size:11px">@JuanAbasolo</text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4162"
@@ -146,17 +114,53 @@
            height="51.28767"
            x="-13.150685"
            y="-14.755382" /></flowRegion><flowPara
-         id="flowPara4168"></flowPara></flowRoot>    <text
-       id="text4178"
-       textLength="510"
-       y="14.966789"
-       x="6.8726859"
-       style="font-size:11px;fill:#010101;fill-opacity:0.3">Telegram</text>
-    <text
-       id="text4180"
-       textLength="510"
-       y="13.966789"
-       x="6.8726859"
-       style="font-size:11px">Telegram</text>
+         id="flowPara4168" /></flowRoot>    <g
+       id="g4158">
+      <g
+         transform="matrix(1.671233,0,0,1,-22.919765,0)"
+         id="g12"
+         clip-path="url(#a)"
+         style="">
+        <path
+           style="fill:#555555"
+           inkscape:connector-curvature="0"
+           id="path14"
+           d="M 0,0 35,0 35,20 0,20 Z" />
+        <path
+           style="fill:#007ec6"
+           inkscape:connector-curvature="0"
+           id="path16"
+           d="m 35,0 61,0 0,20 -61,0 z" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#b)"
+           id="path18"
+           d="M 0,0 96,0 96,20 0,20 Z" />
+      </g>
+      <text
+         style="font-size:11px;fill:#010101;fill-opacity:0.3"
+         id="text26"
+         textLength="510"
+         y="15"
+         x="82.5">@JuanAbasolo</text>
+      <text
+         style="font-size:11px"
+         id="text28"
+         textLength="510"
+         y="14"
+         x="82.5">@JuanAbasolo</text>
+      <text
+         style="font-size:11px;fill:#010101;fill-opacity:0.3"
+         x="6.8726859"
+         y="14.966789"
+         textLength="510"
+         id="text4178">Telegram</text>
+      <text
+         style="font-size:11px"
+         x="6.8726859"
+         y="13.966789"
+         textLength="510"
+         id="text4180">Telegram</text>
+    </g>
   </g>
 </svg>
