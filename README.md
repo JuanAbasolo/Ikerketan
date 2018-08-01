@@ -1,7 +1,4 @@
-# Ikerketan
-Aurkezpenak, datuak eta beste daude honetan
+# Zailtasunk adizkian non?
 
-[EUDIA7](https://github.com/JuanAbasolo/Ikerketan/tree/EUDIA7), Leioan, 2018/06/08.
-
-Kontaktua:  [:e-mail: ](mailto:juan.abasolo@ehu.eus) [![](./irudiak/telegramen.svg)](http://t.me/JuanAbasolo)
+Artikulu honetan aztertzen dira ikastun baten ahozko ekoizpenak zailtasunaren ikuspegitik, zehazki, azterketak erakusten digu adizkien inguruan multzokatzen direla maizen. Adizkien zein alderdik edo zein konfigurazio litzatekeen baldintzatzilea aztertzeko, multzokatze konfigurazioen maiztasunak aztertu dira, horretarako $\chi^2$ banaketaren ondarrak `vcd` ikusizko teknikak erabiliaz. Emaitzen arabera ..........
 
