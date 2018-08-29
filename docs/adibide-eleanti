@@ -1,0 +1,4082 @@
+{
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:486": {
+        "changeset": "Z:ly>1|b=cv=4*0|1+1$\n", 
+        "meta": {
+            "timestamp": 1535094674327, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:487": {
+        "changeset": "Z:lz<1|c=d0-1$", 
+        "meta": {
+            "timestamp": 1535094676308, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:468": {
+        "changeset": "Z:kr>1|d=hg=3a*0+1$.", 
+        "meta": {
+            "timestamp": 1535094597017, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:469": {
+        "changeset": "Z:ks>1|d=hg=5*0+1$[", 
+        "meta": {
+            "timestamp": 1535094619535, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:529": {
+        "changeset": "Z:ne>1|f=mt=k*0+1$n", 
+        "meta": {
+            "timestamp": 1535094721771, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:528": {
+        "changeset": "Z:nd>1|f=mt=j*0+1$s", 
+        "meta": {
+            "timestamp": 1535094721146, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:525": {
+        "changeset": "Z:n6>1|f=mt=c*0+1$e", 
+        "meta": {
+            "timestamp": 1535094719643, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:524": {
+        "changeset": "Z:n5>1|f=mt=b*0+1$z", 
+        "meta": {
+            "timestamp": 1535094719144, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:527": {
+        "changeset": "Z:na>3|f=mt=g*0+3$tre", 
+        "meta": {
+            "timestamp": 1535094720645, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:526": {
+        "changeset": "Z:n7>3|f=mt=d*0+3$ko ", 
+        "meta": {
+            "timestamp": 1535094720142, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:521": {
+        "changeset": "Z:n0>1|f=mt=6*0+1$z", 
+        "meta": {
+            "timestamp": 1535094715576, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:520": {
+        "changeset": "Z:mz>1|f=mt=5*0+1$A", 
+        "meta": {
+            "timestamp": 1535094715078, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:523": {
+        "changeset": "Z:n2>3|f=mt=8*0+3$ert", 
+        "meta": {
+            "timestamp": 1535094716820, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:522": {
+        "changeset": "Z:n1>1|f=mt=7*0+1$t", 
+        "meta": {
+            "timestamp": 1535094716317, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:558": {
+        "changeset": "Z:om>1|h=nx=o*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094768080, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:559": {
+        "changeset": "Z:on>1|h=nx=p*0+1$d", 
+        "meta": {
+            "timestamp": 1535094768582, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:488": {
+        "changeset": "Z:ly>1|e=lt=4*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094680169, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:550": {
+        "changeset": "Z:oh>1|h=nx=j*0+1$*", 
+        "meta": {
+            "timestamp": 1535094755840, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:510": {
+        "changeset": "Z:mo>2|e=lt=u*0+2$aa", 
+        "meta": {
+            "timestamp": 1535094699763, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:552": {
+        "changeset": "Z:oj>1|h=nx=l*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094756843, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:489": {
+        "changeset": "Z:lz>1|e=lt=5*0+1$`", 
+        "meta": {
+            "timestamp": 1535094687199, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:554": {
+        "changeset": "Z:om>1|h=nx=o*0+1$r", 
+        "meta": {
+            "timestamp": 1535094757843, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:555": {
+        "changeset": "Z:on>1|h=nx=p*0+1$i", 
+        "meta": {
+            "timestamp": 1535094758343, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:464": {
+        "changeset": "Z:kk>1|d=hg=33*0+1$a", 
+        "meta": {
+            "timestamp": 1535094588904, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:511": {
+        "changeset": "Z:mq<1|e=lt=v-1$", 
+        "meta": {
+            "timestamp": 1535094700264, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:78": {
+        "changeset": "Z:3p>1|3=2f=7*0+1$D", 
+        "meta": {
+            "timestamp": 1535093979866, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:79": {
+        "changeset": "Z:3q>2|3=2f=8*0+2$ok", 
+        "meta": {
+            "timestamp": 1535093980366, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:413": {
+        "changeset": "Z:i2>3|d=hg=l*0+3$zen", 
+        "meta": {
+            "timestamp": 1535094532379, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:412": {
+        "changeset": "Z:hz>3|d=hg=i*0+3$int", 
+        "meta": {
+            "timestamp": 1535094531886, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:415": {
+        "changeset": "Z:i9>1|d=hg=s*0+1$n", 
+        "meta": {
+            "timestamp": 1535094533642, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:414": {
+        "changeset": "Z:i5>4|d=hg=o*0+4$ due", 
+        "meta": {
+            "timestamp": 1535094532881, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:417": {
+        "changeset": "Z:ib>2|d=hg=u*0+2$k,", 
+        "meta": {
+            "timestamp": 1535094536134, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:416": {
+        "changeset": "Z:ia>1|d=hg=t*0+1$a", 
+        "meta": {
+            "timestamp": 1535094535576, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:70": {
+        "changeset": "Z:39>5|3=2f=t*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535093959961, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:71": {
+        "changeset": "Z:3e>1|4=39=4*0+1$3", 
+        "meta": {
+            "timestamp": 1535093960911, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:72": {
+        "changeset": "Z:3f>1|4=39=5*0+1$.", 
+        "meta": {
+            "timestamp": 1535093961408, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:73": {
+        "changeset": "Z:3g>1|4=39=6*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093962449, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:74": {
+        "changeset": "Z:3h>5|2=13=1b*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535093976664, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:75": {
+        "changeset": "Z:3m>1|3=2f=4*0+1$2", 
+        "meta": {
+            "timestamp": 1535093977843, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:76": {
+        "changeset": "Z:3n>1|3=2f=5*0+1$.", 
+        "meta": {
+            "timestamp": 1535093978346, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:77": {
+        "changeset": "Z:3o>1|3=2f=6*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093978844, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:318": {
+        "changeset": "Z:do>2|c=d0=n*0+2$le", 
+        "meta": {
+            "timestamp": 1535094368555, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:319": {
+        "changeset": "Z:dq>1|c=d0=p*0+1$a", 
+        "meta": {
+            "timestamp": 1535094369157, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:316": {
+        "changeset": "Z:dh>3|c=d0=g*0+3$rma", 
+        "meta": {
+            "timestamp": 1535094367338, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:317": {
+        "changeset": "Z:dk>4|c=d0=j*0+4$tzai", 
+        "meta": {
+            "timestamp": 1535094368053, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:314": {
+        "changeset": "Z:dd>1|c=d0=c*0+1$i", 
+        "meta": {
+            "timestamp": 1535094365964, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:315": {
+        "changeset": "Z:de>3|c=d0=d*0+3$nfo", 
+        "meta": {
+            "timestamp": 1535094366465, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:312": {
+        "changeset": "Z:da>1|c=d0=9*0+1$a", 
+        "meta": {
+            "timestamp": 1535094343999, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:313": {
+        "changeset": "Z:db>2|c=d0=a*0+2$n ", 
+        "meta": {
+            "timestamp": 1535094344501, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:310": {
+        "changeset": "Z:d6>2|c=d0=5*0+2$. ", 
+        "meta": {
+            "timestamp": 1535094342075, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:311": {
+        "changeset": "Z:d8>2|c=d0=7*0+2$Jo", 
+        "meta": {
+            "timestamp": 1535094342908, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:257": {
+        "changeset": "Z:bu>1|8=83=3q*0+1$r", 
+        "meta": {
+            "timestamp": 1535094194119, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:256": {
+        "changeset": "Z:bq>4|8=83=3m*0+4$u ho", 
+        "meta": {
+            "timestamp": 1535094193073, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:255": {
+        "changeset": "Z:bn>3|8=83=3j*0+3$ent", 
+        "meta": {
+            "timestamp": 1535094192570, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:254": {
+        "changeset": "Z:bm>1|8=83=3i*0+1$m", 
+        "meta": {
+            "timestamp": 1535094192071, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:253": {
+        "changeset": "Z:bl>1|8=83=3h*0+1$u", 
+        "meta": {
+            "timestamp": 1535094191401, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:252": {
+        "changeset": "Z:bk>1|8=83=3g*0+1$k", 
+        "meta": {
+            "timestamp": 1535094190899, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:251": {
+        "changeset": "Z:bj>1|8=83=3f*0+1$o", 
+        "meta": {
+            "timestamp": 1535094190229, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:250": {
+        "changeset": "Z:bi>1|8=83=3e*0+1$D", 
+        "meta": {
+            "timestamp": 1535094189718, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:259": {
+        "changeset": "Z:bw>1|8=83=3s*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094233214, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:258": {
+        "changeset": "Z:bv>1|8=83=3r*0+1$i", 
+        "meta": {
+            "timestamp": 1535094194620, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:389": {
+        "changeset": "Z:gr>3|c=d0=3q*0+3$tze", 
+        "meta": {
+            "timestamp": 1535094502495, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:388": {
+        "changeset": "Z:go>3|c=d0=3n*0+3$rga", 
+        "meta": {
+            "timestamp": 1535094501995, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:381": {
+        "changeset": "Z:g1>6|c=d0=30*0+6$ainbat", 
+        "meta": {
+            "timestamp": 1535094498107, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:380": {
+        "changeset": "Z:g0>1|c=d0=2z*0+1$h", 
+        "meta": {
+            "timestamp": 1535094496989, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:383": {
+        "changeset": "Z:g9>4|c=d0=38*0+4$orma", 
+        "meta": {
+            "timestamp": 1535094499107, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:382": {
+        "changeset": "Z:g7>2|c=d0=36*0+2$ f", 
+        "meta": {
+            "timestamp": 1535094498669, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:385": {
+        "changeset": "Z:gg>2|c=d0=3f*0+2$an", 
+        "meta": {
+            "timestamp": 1535094500110, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:384": {
+        "changeset": "Z:gd>3|c=d0=3c*0+3$tut", 
+        "meta": {
+            "timestamp": 1535094499606, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:387": {
+        "changeset": "Z:gl>3|c=d0=3k*0+3$ska", 
+        "meta": {
+            "timestamp": 1535094501487, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:386": {
+        "changeset": "Z:gi>3|c=d0=3h*0+3$ de", 
+        "meta": {
+            "timestamp": 1535094500988, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:172": {
+        "changeset": "Z:8d>3|8=5y=2d*0+3$det", 
+        "meta": {
+            "timestamp": 1535094095207, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:173": {
+        "changeset": "Z:8g>4|8=5y=2g*0+4$zen ", 
+        "meta": {
+            "timestamp": 1535094095708, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:170": {
+        "changeset": "Z:89>1|8=5y=29*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094094208, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:171": {
+        "changeset": "Z:8a>3|8=5y=2a*0+3$gor", 
+        "meta": {
+            "timestamp": 1535094094707, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:176": {
+        "changeset": "Z:8p>1|8=5y=2p*0+1$d", 
+        "meta": {
+            "timestamp": 1535094097765, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:177": {
+        "changeset": "Z:8q>2|8=5y=2q*0+2$ok", 
+        "meta": {
+            "timestamp": 1535094098265, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:174": {
+        "changeset": "Z:8k>3|8=5y=2k*0+3$due", 
+        "meta": {
+            "timestamp": 1535094096209, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:175": {
+        "changeset": "Z:8n>2|8=5y=2n*0+2$n ", 
+        "meta": {
+            "timestamp": 1535094096709, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:178": {
+        "changeset": "Z:8s>3|8=5y=2s*0+3$ume", 
+        "meta": {
+            "timestamp": 1535094098768, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:179": {
+        "changeset": "Z:8v>1|8=5y=2v*0+1$n", 
+        "meta": {
+            "timestamp": 1535094099268, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:303": {
+        "changeset": "Z:d0>5|b=cv=4*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535094321841, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:302": {
+        "changeset": "Z:cv>5|a=cl=9*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535094321341, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:309": {
+        "changeset": "Z:d5>1|c=d0=4*0+1$1", 
+        "meta": {
+            "timestamp": 1535094341574, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:308": {
+        "changeset": "Z:d7<2|c=d0=4-2$", 
+        "meta": {
+            "timestamp": 1535094340870, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:514": {
+        "changeset": "Z:mt>1|e=lt=z*0+1$.", 
+        "meta": {
+            "timestamp": 1535094704943, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:515": {
+        "changeset": "Z:mu<1|e=lt=z-1$", 
+        "meta": {
+            "timestamp": 1535094707332, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:516": {
+        "changeset": "Z:mt>3|e=lt=z*0|1+1*0+2$\n  ", 
+        "meta": {
+            "timestamp": 1535094708829, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:517": {
+        "changeset": "Z:mw>1|f=mt=2*0+1$3", 
+        "meta": {
+            "timestamp": 1535094711043, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:459": {
+        "changeset": "Z:kb>3|d=hg=2u*0+3$auk", 
+        "meta": {
+            "timestamp": 1535094586392, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:458": {
+        "changeset": "Z:ka>1|d=hg=2t*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094585889, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:512": {
+        "changeset": "Z:mp>1|e=lt=v*0+1$i", 
+        "meta": {
+            "timestamp": 1535094700773, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:429": {
+        "changeset": "Z:iz>1|d=hg=1i*0+1$`", 
+        "meta": {
+            "timestamp": 1535094554150, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:455": {
+        "changeset": "Z:k3>3|d=hg=2m*0+3$ais", 
+        "meta": {
+            "timestamp": 1535094584384, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:454": {
+        "changeset": "Z:k2>1|d=hg=2l*0+1$j", 
+        "meta": {
+            "timestamp": 1535094583882, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:457": {
+        "changeset": "Z:k8>2|d=hg=2r*0+2$ko", 
+        "meta": {
+            "timestamp": 1535094585385, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:456": {
+        "changeset": "Z:k6>2|d=hg=2p*0+2$te", 
+        "meta": {
+            "timestamp": 1535094584885, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:451": {
+        "changeset": "Z:ju>3|d=hg=2d*0+3$atu", 
+        "meta": {
+            "timestamp": 1535094582355, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:450": {
+        "changeset": "Z:jr>3|d=hg=2a*0+3$orm", 
+        "meta": {
+            "timestamp": 1535094581852, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:453": {
+        "changeset": "Z:k0>2|d=hg=2j*0+2$n ", 
+        "meta": {
+            "timestamp": 1535094583353, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:452": {
+        "changeset": "Z:jx>3|d=hg=2g*0+3$eta", 
+        "meta": {
+            "timestamp": 1535094582878, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:449": {
+        "changeset": "Z:jq>1|d=hg=29*0+1$f", 
+        "meta": {
+            "timestamp": 1535094581351, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:428": {
+        "changeset": "Z:iy>1|d=hg=1e*0+1$.", 
+        "meta": {
+            "timestamp": 1535094550751, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:420": {
+        "changeset": "Z:ik>5|d=hg=13*0+5$bater", 
+        "meta": {
+            "timestamp": 1535094537646, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:358": {
+        "changeset": "Z:ff>4|c=d0=2e*0+4$ko b", 
+        "meta": {
+            "timestamp": 1535094434309, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:359": {
+        "changeset": "Z:fj>3|c=d0=2i*0+3$ate", 
+        "meta": {
+            "timestamp": 1535094434808, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:421": {
+        "changeset": "Z:ip>3|d=hg=18*0+3$ako", 
+        "meta": {
+            "timestamp": 1535094538146, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:352": {
+        "changeset": "Z:f5>1|c=d0=24*0+1$i", 
+        "meta": {
+            "timestamp": 1535094427476, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:353": {
+        "changeset": "Z:f6>2|c=d0=25*0+2$ko", 
+        "meta": {
+            "timestamp": 1535094428223, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:350": {
+        "changeset": "Z:f0>1|c=d0=1z*0+1$i", 
+        "meta": {
+            "timestamp": 1535094421399, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:351": {
+        "changeset": "Z:f1>4|c=d0=20*0+4$ren ", 
+        "meta": {
+            "timestamp": 1535094422007, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:356": {
+        "changeset": "Z:fb>1|c=d0=2a*0+1$t", 
+        "meta": {
+            "timestamp": 1535094431554, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:357": {
+        "changeset": "Z:fc>3|c=d0=2b*0+3$ari", 
+        "meta": {
+            "timestamp": 1535094432355, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:354": {
+        "changeset": "Z:f8>2|c=d0=27*0+2$no", 
+        "meta": {
+            "timestamp": 1535094428736, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:355": {
+        "changeset": "Z:fa>1|c=d0=29*0+1$e", 
+        "meta": {
+            "timestamp": 1535094429953, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:423": {
+        "changeset": "Z:it>1|d=hg=1c*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094539612, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:424": {
+        "changeset": "Z:iu>1|d=hg=1d*0+1$t", 
+        "meta": {
+            "timestamp": 1535094542485, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:425": {
+        "changeset": "Z:iv>1|d=hg=1e*0+1$x", 
+        "meta": {
+            "timestamp": 1535094543158, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:426": {
+        "changeset": "Z:iw>1|d=hg=1f*0+1$t", 
+        "meta": {
+            "timestamp": 1535094546049, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:465": {
+        "changeset": "Z:kl>2|d=hg=34*0+2$te", 
+        "meta": {
+            "timestamp": 1535094589405, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:427": {
+        "changeset": "Z:ix>1|d=hg=1d*0+1$`", 
+        "meta": {
+            "timestamp": 1535094550235, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:96": {
+        "changeset": "Z:4h>1|5=41=e*0+1$d", 
+        "meta": {
+            "timestamp": 1535094013636, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:97": {
+        "changeset": "Z:4i>3|5=41=f*0+3$oku", 
+        "meta": {
+            "timestamp": 1535094014133, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:94": {
+        "changeset": "Z:4e>2|5=41=b*0+2$zi", 
+        "meta": {
+            "timestamp": 1535093999645, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:95": {
+        "changeset": "Z:4g>1|5=41=d*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094013135, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:92": {
+        "changeset": "Z:4a>1|5=41=7*0+1$I", 
+        "meta": {
+            "timestamp": 1535093998643, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:93": {
+        "changeset": "Z:4b>3|5=41=8*0+3$dat", 
+        "meta": {
+            "timestamp": 1535093999145, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:228": {
+        "changeset": "Z:ap>1|3=2f=23*0+1$a", 
+        "meta": {
+            "timestamp": 1535094161301, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:91": {
+        "changeset": "Z:49>1|5=41=6*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093992078, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:226": {
+        "changeset": "Z:ak>3|3=2f=1y*0+3$est", 
+        "meta": {
+            "timestamp": 1535094158869, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:227": {
+        "changeset": "Z:an>2|3=2f=21*0+2$e ", 
+        "meta": {
+            "timestamp": 1535094159369, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:224": {
+        "changeset": "Z:ad>3|3=2f=1r*0+3$zes", 
+        "meta": {
+            "timestamp": 1535094157867, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:225": {
+        "changeset": "Z:ag>4|3=2f=1u*0+4$ua b", 
+        "meta": {
+            "timestamp": 1535094158368, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:222": {
+        "changeset": "Z:aa>1|3=2f=1o*0+1$p", 
+        "meta": {
+            "timestamp": 1535094156698, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:223": {
+        "changeset": "Z:ab>2|3=2f=1p*0+2$ro", 
+        "meta": {
+            "timestamp": 1535094157200, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:220": {
+        "changeset": "Z:a5>4|3=2f=1j*0+4$alio", 
+        "meta": {
+            "timestamp": 1535094152314, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:99": {
+        "changeset": "Z:4o>1|5=41=l*0+1$t", 
+        "meta": {
+            "timestamp": 1535094015133, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:129": {
+        "changeset": "Z:66>3|8=5y=6*0+3$ria", 
+        "meta": {
+            "timestamp": 1535094057952, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:128": {
+        "changeset": "Z:64>2|8=5y=4*0+2$la", 
+        "meta": {
+            "timestamp": 1535094057457, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:121": {
+        "changeset": "Z:5p>3|6=4q=x*0+3$asa", 
+        "meta": {
+            "timestamp": 1535094043947, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:120": {
+        "changeset": "Z:5o>1|6=4q=w*0+1$p", 
+        "meta": {
+            "timestamp": 1535094043449, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:123": {
+        "changeset": "Z:5u>5|6=4q=12*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535094047263, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:122": {
+        "changeset": "Z:5s>2|6=4q=10*0+2$tu", 
+        "meta": {
+            "timestamp": 1535094044442, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:125": {
+        "changeset": "Z:64<4|8=5y-4$", 
+        "meta": {
+            "timestamp": 1535094049910, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:124": {
+        "changeset": "Z:5z>5|7=5t=4*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535094047764, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:127": {
+        "changeset": "Z:61>3|8=5y=1*0+3$ker", 
+        "meta": {
+            "timestamp": 1535094056955, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:126": {
+        "changeset": "Z:60>1|8=5y*0+1$I", 
+        "meta": {
+            "timestamp": 1535094056455, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:551": {
+        "changeset": "Z:oi>1|h=nx=k*0+1$*", 
+        "meta": {
+            "timestamp": 1535094756341, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:553": {
+        "changeset": "Z:ok>2|h=nx=m*0+2$ho", 
+        "meta": {
+            "timestamp": 1535094757342, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:556": {
+        "changeset": "Z:oo<1|h=nx=k-1$", 
+        "meta": {
+            "timestamp": 1535094760869, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:557": {
+        "changeset": "Z:on<1|h=nx-1$", 
+        "meta": {
+            "timestamp": 1535094763974, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:411": {
+        "changeset": "Z:hw>3|d=hg=f*0+3$ska", 
+        "meta": {
+            "timestamp": 1535094531377, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:410": {
+        "changeset": "Z:hv>1|d=hg=e*0+1$e", 
+        "meta": {
+            "timestamp": 1535094530877, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:419": {
+        "changeset": "Z:ih>3|d=hg=10*0+3$te ", 
+        "meta": {
+            "timestamp": 1535094537146, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:418": {
+        "changeset": "Z:id>4|d=hg=w*0+4$ esa", 
+        "meta": {
+            "timestamp": 1535094536646, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:549": {
+        "changeset": "Z:og>1|h=nx=1*0+1$*", 
+        "meta": {
+            "timestamp": 1535094753669, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:548": {
+        "changeset": "Z:of>1|h=nx*0+1$*", 
+        "meta": {
+            "timestamp": 1535094753170, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:543": {
+        "changeset": "Z:o4>2|h=nx=6*0+2$ze", 
+        "meta": {
+            "timestamp": 1535094747555, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:542": {
+        "changeset": "Z:o1>3|h=nx=3*0+3$ert", 
+        "meta": {
+            "timestamp": 1535094747050, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:541": {
+        "changeset": "Z:nz>2|h=nx=1*0+2$zt", 
+        "meta": {
+            "timestamp": 1535094746548, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:540": {
+        "changeset": "Z:ny>1|h=nx*0+1$A", 
+        "meta": {
+            "timestamp": 1535094746046, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:547": {
+        "changeset": "Z:od>2|h=nx=f*0+2$na", 
+        "meta": {
+            "timestamp": 1535094749550, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:546": {
+        "changeset": "Z:ob>2|h=nx=d*0+2$es", 
+        "meta": {
+            "timestamp": 1535094749049, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:422": {
+        "changeset": "Z:is>1|d=hg=1b*0+1$,", 
+        "meta": {
+            "timestamp": 1535094539111, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:544": {
+        "changeset": "Z:o6>3|h=nx=8*0+3$ko ", 
+        "meta": {
+            "timestamp": 1535094748050, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:45": {
+        "changeset": "Z:22>3|2=13=y*0+3$zio", 
+        "meta": {
+            "timestamp": 1535093925385, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:44": {
+        "changeset": "Z:20>2|2=13=w*0+2$ka", 
+        "meta": {
+            "timestamp": 1535093924886, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:47": {
+        "changeset": "Z:26>1|2=13=12*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093926983, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:46": {
+        "changeset": "Z:25>1|2=13=11*0+1$a", 
+        "meta": {
+            "timestamp": 1535093925886, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:41": {
+        "changeset": "Z:1u>1|2=13=q*0+1$b", 
+        "meta": {
+            "timestamp": 1535093923384, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:40": {
+        "changeset": "Z:1t>1|2=13=p*0+1$e", 
+        "meta": {
+            "timestamp": 1535093922884, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:43": {
+        "changeset": "Z:1y>2|2=13=u*0+2$li", 
+        "meta": {
+            "timestamp": 1535093924384, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:42": {
+        "changeset": "Z:1v>3|2=13=r*0+3$ ap", 
+        "meta": {
+            "timestamp": 1535093923884, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:229": {
+        "changeset": "Z:aq>3|3=2f=24*0+3$pli", 
+        "meta": {
+            "timestamp": 1535094161802, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:49": {
+        "changeset": "Z:28>2|2=13=14*0+2$ab", 
+        "meta": {
+            "timestamp": 1535093928666, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:48": {
+        "changeset": "Z:27>1|2=13=13*0+1$z", 
+        "meta": {
+            "timestamp": 1535093928164, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:90": {
+        "changeset": "Z:48>1|5=41=4*0+1$4", 
+        "meta": {
+            "timestamp": 1535093990736, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:563": {
+        "changeset": "Z:or>5|h=nx=t*0+5$raind", 
+        "meta": {
+            "timestamp": 1535094774945, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:301": {
+        "changeset": "Z:cu>1|a=cl=8*0+1$:", 
+        "meta": {
+            "timestamp": 1535094320838, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:300": {
+        "changeset": "Z:cs>2|a=cl=6*0+2$ko", 
+        "meta": {
+            "timestamp": 1535094317863, 
+            "atext": {
+                "attribs": "*0|a+cl*0+8|1+1", 
+                "text": "Prozesua honela laburbil daiteke:\n    \n    1. Etherpad izeneko web aplikazioa zabaldu \n    2. Dokumentu bat sortu **web orretan** ^[ez baitu balio prozesua beste aplikazioren batean egiteak].\n    3. Helbide hori gorde (?)\n    4. Idatzi dokumentua\n    5. Web helbidea ikerlariari pasatu\n    \nIkerlariak, orduan, web helbide hori duela idatzitakoa zein idazketa prozesu osoa gordetzen duen dokumentua jaits dezake, eta baliabidea sortuz gero, analizatu.\n\nJaisteko\n"
+            }, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:268": {
+        "changeset": "Z:bi>1|8=83=3e*0+1$e", 
+        "meta": {
+            "timestamp": 1535094289014, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:269": {
+        "changeset": "Z:bj>2|8=83=3f*0+2$ta", 
+        "meta": {
+            "timestamp": 1535094289517, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:305": {
+        "changeset": "Z:d6>1|c=d0=5*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094323762, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:304": {
+        "changeset": "Z:d5>1|c=d0=4*0+1$*", 
+        "meta": {
+            "timestamp": 1535094322711, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:307": {
+        "changeset": "Z:d8<1|c=d0=6-1$", 
+        "meta": {
+            "timestamp": 1535094340013, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:306": {
+        "changeset": "Z:d7>1|c=d0=6*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094339255, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:262": {
+        "changeset": "Z:bu<5|8=83=3l-5$", 
+        "meta": {
+            "timestamp": 1535094282639, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:263": {
+        "changeset": "Z:bp<7|8=83=3e-7$", 
+        "meta": {
+            "timestamp": 1535094283140, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:260": {
+        "changeset": "Z:bx<1|8=83=3s-1$", 
+        "meta": {
+            "timestamp": 1535094281382, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:261": {
+        "changeset": "Z:bw<2|8=83=3q-2$", 
+        "meta": {
+            "timestamp": 1535094282139, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:266": {
+        "changeset": "Z:bg>1|8=83=3c*0+1$,", 
+        "meta": {
+            "timestamp": 1535094287487, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:267": {
+        "changeset": "Z:bh>1|8=83=3d*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094287990, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:264": {
+        "changeset": "Z:bi<1|8=83=3d-1$", 
+        "meta": {
+            "timestamp": 1535094283641, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:265": {
+        "changeset": "Z:bh<1|8=83=3c-1$", 
+        "meta": {
+            "timestamp": 1535094286605, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:569": {
+        "changeset": "Z:p6>3|h=nx=18*0+3$ko ", 
+        "meta": {
+            "timestamp": 1535094778108, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:443": {
+        "changeset": "Z:jg>2|d=hg=1z*0+2$et", 
+        "meta": {
+            "timestamp": 1535094575731, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:165": {
+        "changeset": "Z:80>2|8=5y=20*0+2$ze", 
+        "meta": {
+            "timestamp": 1535094091452, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:164": {
+        "changeset": "Z:7z>1|8=5y=1z*0+1$o", 
+        "meta": {
+            "timestamp": 1535094090942, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:167": {
+        "changeset": "Z:85>2|8=5y=25*0+2$os", 
+        "meta": {
+            "timestamp": 1535094092449, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:166": {
+        "changeset": "Z:82>3|8=5y=22*0+3$su ", 
+        "meta": {
+            "timestamp": 1535094091950, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:161": {
+        "changeset": "Z:7t>3|8=5y=1t*0+3$eta", 
+        "meta": {
+            "timestamp": 1535094089441, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:160": {
+        "changeset": "Z:7s>1|8=5y=1s*0+1$k", 
+        "meta": {
+            "timestamp": 1535094088941, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:163": {
+        "changeset": "Z:7x>2|8=5y=1x*0+2$pr", 
+        "meta": {
+            "timestamp": 1535094090442, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:162": {
+        "changeset": "Z:7w>1|8=5y=1w*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094089943, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:445": {
+        "changeset": "Z:jj>3|d=hg=22*0+3$erp", 
+        "meta": {
+            "timestamp": 1535094576962, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:169": {
+        "changeset": "Z:88>1|8=5y=28*0+1$a", 
+        "meta": {
+            "timestamp": 1535094093708, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:168": {
+        "changeset": "Z:87>1|8=5y=27*0+1$o", 
+        "meta": {
+            "timestamp": 1535094092949, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:280": {
+        "changeset": "Z:c4>2|8=83=40*0+2$ge", 
+        "meta": {
+            "timestamp": 1535094297278, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:281": {
+        "changeset": "Z:c6>1|8=83=42*0+1$r", 
+        "meta": {
+            "timestamp": 1535094297901, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:282": {
+        "changeset": "Z:c7>1|8=83=43*0+1$o", 
+        "meta": {
+            "timestamp": 1535094298401, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:283": {
+        "changeset": "Z:c8>1|8=83=44*0+1$,", 
+        "meta": {
+            "timestamp": 1535094298901, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:284": {
+        "changeset": "Z:c9>1|8=83=45*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094299402, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:285": {
+        "changeset": "Z:ca>3|8=83=46*0+3$ana", 
+        "meta": {
+            "timestamp": 1535094299902, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:286": {
+        "changeset": "Z:cd>2|8=83=49*0+2$li", 
+        "meta": {
+            "timestamp": 1535094300402, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:287": {
+        "changeset": "Z:cf>1|8=83=4b*0+1$s", 
+        "meta": {
+            "timestamp": 1535094301752, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:288": {
+        "changeset": "Z:cg>2|8=83=4c*0+2$at", 
+        "meta": {
+            "timestamp": 1535094302254, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:289": {
+        "changeset": "Z:ci>1|8=83=4e*0+1$u", 
+        "meta": {
+            "timestamp": 1535094302860, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:110": {
+        "changeset": "Z:54>2|6=4q=c*0+2$el", 
+        "meta": {
+            "timestamp": 1535094036571, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:111": {
+        "changeset": "Z:56>2|6=4q=e*0+2$bi", 
+        "meta": {
+            "timestamp": 1535094037070, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:112": {
+        "changeset": "Z:58>1|6=4q=g*0+1$d", 
+        "meta": {
+            "timestamp": 1535094038008, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:113": {
+        "changeset": "Z:59>2|6=4q=h*0+2$ea", 
+        "meta": {
+            "timestamp": 1535094038511, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:114": {
+        "changeset": "Z:5b>1|6=4q=j*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094039011, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:115": {
+        "changeset": "Z:5c>1|6=4q=k*0+1$i", 
+        "meta": {
+            "timestamp": 1535094040805, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:116": {
+        "changeset": "Z:5d>2|6=4q=l*0+2$ke", 
+        "meta": {
+            "timestamp": 1535094041307, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:117": {
+        "changeset": "Z:5f>3|6=4q=n*0+3$rla", 
+        "meta": {
+            "timestamp": 1535094041810, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:118": {
+        "changeset": "Z:5i>3|6=4q=q*0+3$ria", 
+        "meta": {
+            "timestamp": 1535094042309, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:119": {
+        "changeset": "Z:5l>3|6=4q=t*0+3$ri ", 
+        "meta": {
+            "timestamp": 1535094042934, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:212": {
+        "changeset": "Z:af<1|3=2f=1s-1$", 
+        "meta": {
+            "timestamp": 1535094147483, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:507": {
+        "changeset": "Z:mj>3|e=lt=p*0+3$una", 
+        "meta": {
+            "timestamp": 1535094698050, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:506": {
+        "changeset": "Z:mi>1|e=lt=o*0+1$d", 
+        "meta": {
+            "timestamp": 1535094697549, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:505": {
+        "changeset": "Z:mh>1|e=lt=n*0+1$u", 
+        "meta": {
+            "timestamp": 1535094696829, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:504": {
+        "changeset": "Z:mf>2|e=lt=l*0+2$at", 
+        "meta": {
+            "timestamp": 1535094696314, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:503": {
+        "changeset": "Z:me>1|e=lt=k*0+1$m", 
+        "meta": {
+            "timestamp": 1535094695816, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:502": {
+        "changeset": "Z:mc>2|e=lt=i*0+2$or", 
+        "meta": {
+            "timestamp": 1535094695315, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:501": {
+        "changeset": "Z:mb>1|e=lt=h*0+1$f", 
+        "meta": {
+            "timestamp": 1535094694815, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:500": {
+        "changeset": "Z:mc<1|e=lt=h-1$", 
+        "meta": {
+            "timestamp": 1535094694314, 
+            "atext": {
+                "attribs": "*0|d+he*0*1*2*3+1*0|1+4e*0+h|1+1", 
+                "text": "Prozesua honela laburbil daiteke:\n    \n    1. Etherpad izeneko web aplikazioa zabaldu \n    2. Dokumentu bat sortu **web orretan** ^[ez baitu balio prozesua beste aplikazioren batean egiteak].\n    3. Helbide hori gorde (?)\n    4. Idatzi dokumentua\n    5. Web helbidea ikerlariari pasatu\n    \nIkerlariak, orduan, web helbide hori duela idatzitakoa zein idazketa prozesu osoa gordetzen duen dokumentua jaits dezake, eta baliabidea sortuz gero, analizatu.\n\nJaisteko:\n    \n  1. Joan informatzaileak emandako web helbidera eta goian agertzen diren ikonoetariko batean dokumentua hainbat formatutan deskargatzeko aukera ematen du.  \n*    [Mozillak eskaintzen duenak](https://public.etherpad-mozilla.org), esate baterako, `.txt`, `.html` eta `.etherpad` formatuetan jaisteko aukera ematen du.\n  2. `.etherpad` \n"
+            }, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:509": {
+        "changeset": "Z:mn>1|e=lt=t*0+1$j", 
+        "meta": {
+            "timestamp": 1535094699263, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:508": {
+        "changeset": "Z:mm>1|e=lt=s*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094698551, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:98": {
+        "changeset": "Z:4l>3|5=41=i*0+3$men", 
+        "meta": {
+            "timestamp": 1535094014634, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:188": {
+        "changeset": "Z:9c>1|3=2f=q*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094107306, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:439": {
+        "changeset": "Z:ja>1|d=hg=1t*0+1$e", 
+        "meta": {
+            "timestamp": 1535094565726, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:438": {
+        "changeset": "Z:j9>1|d=hg=1s*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094565094, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:349": {
+        "changeset": "Z:f1<1|c=d0=1z-1$", 
+        "meta": {
+            "timestamp": 1535094420826, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:348": {
+        "changeset": "Z:f2<1|c=d0=20-1$", 
+        "meta": {
+            "timestamp": 1535094420326, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:345": {
+        "changeset": "Z:ev>2|c=d0=1u*0+2$ze", 
+        "meta": {
+            "timestamp": 1535094418014, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:344": {
+        "changeset": "Z:et>2|c=d0=1s*0+2$rt", 
+        "meta": {
+            "timestamp": 1535094417505, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:347": {
+        "changeset": "Z:f1>1|c=d0=20*0+1$n", 
+        "meta": {
+            "timestamp": 1535094419006, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:346": {
+        "changeset": "Z:ex>4|c=d0=1w*0+4$n de", 
+        "meta": {
+            "timestamp": 1535094418506, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:341": {
+        "changeset": "Z:eq>1|c=d0=1p*0+1$a", 
+        "meta": {
+            "timestamp": 1535094415329, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:340": {
+        "changeset": "Z:ep>1|c=d0=1o*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094411768, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:343": {
+        "changeset": "Z:es>1|c=d0=1r*0+1$e", 
+        "meta": {
+            "timestamp": 1535094417005, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:342": {
+        "changeset": "Z:er>1|c=d0=1q*0+1$g", 
+        "meta": {
+            "timestamp": 1535094416001, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:18": {
+        "changeset": "Z:q>3=p*0+3$dai", 
+        "meta": {
+            "timestamp": 1535093896573, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:19": {
+        "changeset": "Z:t>3=s*0+3$tek", 
+        "meta": {
+            "timestamp": 1535093897073, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:16": {
+        "changeset": "Z:o>1=n*0+1$l", 
+        "meta": {
+            "timestamp": 1535093895472, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:17": {
+        "changeset": "Z:p>1=o*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093896073, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:14": {
+        "changeset": "Z:l>1=k*0+1$r", 
+        "meta": {
+            "timestamp": 1535093894472, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:15": {
+        "changeset": "Z:m>2=l*0+2$bi", 
+        "meta": {
+            "timestamp": 1535093894970, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:12": {
+        "changeset": "Z:h>2=g*0+2$la", 
+        "meta": {
+            "timestamp": 1535093893471, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:13": {
+        "changeset": "Z:j>2=i*0+2$bu", 
+        "meta": {
+            "timestamp": 1535093893972, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:10": {
+        "changeset": "Z:e>1=d*0+1$l", 
+        "meta": {
+            "timestamp": 1535093892467, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:11": {
+        "changeset": "Z:f>2=e*0+2$a ", 
+        "meta": {
+            "timestamp": 1535093892970, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:568": {
+        "changeset": "Z:p3>3|h=nx=15*0+3$tze", 
+        "meta": {
+            "timestamp": 1535094777578, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:338": {
+        "changeset": "Z:en>1|c=d0=1m*0+1$a", 
+        "meta": {
+            "timestamp": 1535094393163, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:339": {
+        "changeset": "Z:eo>1|c=d0=1n*0+1$n", 
+        "meta": {
+            "timestamp": 1535094393662, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:484": {
+        "changeset": "Z:m0<1|c=d0-1$", 
+        "meta": {
+            "timestamp": 1535094669971, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:485": {
+        "changeset": "Z:lz<1|b=cv=4|1-1$", 
+        "meta": {
+            "timestamp": 1535094670980, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:482": {
+        "changeset": "Z:m0>1|e=lv=4*0+1$.", 
+        "meta": {
+            "timestamp": 1535094658821, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:483": {
+        "changeset": "Z:m1<1|e=lv-1$", 
+        "meta": {
+            "timestamp": 1535094667335, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:480": {
+        "changeset": "Z:ly>1|e=lv=2*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094657101, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:481": {
+        "changeset": "Z:lz>1|e=lv=3*0+1$2", 
+        "meta": {
+            "timestamp": 1535094658319, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:330": {
+        "changeset": "Z:ea>2|c=d0=19*0+2$id", 
+        "meta": {
+            "timestamp": 1535094375491, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:331": {
+        "changeset": "Z:ec>3|c=d0=1b*0+3$era", 
+        "meta": {
+            "timestamp": 1535094375987, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:332": {
+        "changeset": "Z:ef>1|c=d0=1e*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094379232, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:333": {
+        "changeset": "Z:eg>1|c=d0=1f*0+1$e", 
+        "meta": {
+            "timestamp": 1535094383023, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:334": {
+        "changeset": "Z:eh>2|c=d0=1g*0+2$ta", 
+        "meta": {
+            "timestamp": 1535094383526, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:335": {
+        "changeset": "Z:ej>1|c=d0=1i*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094384025, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:336": {
+        "changeset": "Z:ek>1|c=d0=1j*0+1$g", 
+        "meta": {
+            "timestamp": 1535094392074, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:337": {
+        "changeset": "Z:el>2|c=d0=1k*0+2$oi", 
+        "meta": {
+            "timestamp": 1535094392577, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:231": {
+        "changeset": "Z:av>3|3=2f=29*0+3$zio", 
+        "meta": {
+            "timestamp": 1535094162802, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:230": {
+        "changeset": "Z:at>2|3=2f=27*0+2$ka", 
+        "meta": {
+            "timestamp": 1535094162301, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:233": {
+        "changeset": "Z:b0<1|3=2f=2d-1$", 
+        "meta": {
+            "timestamp": 1535094163802, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:232": {
+        "changeset": "Z:ay>2|3=2f=2c*0+2$rn", 
+        "meta": {
+            "timestamp": 1535094163302, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:235": {
+        "changeset": "Z:b1>2|3=2f=2f*0+2$ b", 
+        "meta": {
+            "timestamp": 1535094164803, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:234": {
+        "changeset": "Z:az>2|3=2f=2d*0+2$en", 
+        "meta": {
+            "timestamp": 1535094164303, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:237": {
+        "changeset": "Z:b5>1|3=2f=2j*0+1$a", 
+        "meta": {
+            "timestamp": 1535094165804, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:236": {
+        "changeset": "Z:b3>2|3=2f=2h*0+2$ae", 
+        "meta": {
+            "timestamp": 1535094165305, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:239": {
+        "changeset": "Z:b4>2|3=2f=2i*0+2$te", 
+        "meta": {
+            "timestamp": 1535094166806, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:238": {
+        "changeset": "Z:b6<2|3=2f=2i-2$", 
+        "meta": {
+            "timestamp": 1535094166303, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "globalAuthor:a.ao3KA1J3ReC4HCmy": {
+        "colorId": "#daf0b2", 
+        "name": "Juan", 
+        "padIDs": "Etherpad-idazketa-aztertzeko-tresna", 
+        "timestamp": 1535121623551
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:518": {
+        "changeset": "Z:mx>1|f=mt=3*0+1$.", 
+        "meta": {
+            "timestamp": 1535094712045, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:158": {
+        "changeset": "Z:7s<1|8=5y=1r-1$", 
+        "meta": {
+            "timestamp": 1535094087733, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:159": {
+        "changeset": "Z:7r>1|8=5y=1r*0+1$z", 
+        "meta": {
+            "timestamp": 1535094088234, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:154": {
+        "changeset": "Z:7h>2|8=5y=1h*0+2$a ", 
+        "meta": {
+            "timestamp": 1535094085475, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:155": {
+        "changeset": "Z:7j>2|8=5y=1j*0+2$ze", 
+        "meta": {
+            "timestamp": 1535094085975, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:156": {
+        "changeset": "Z:7l>3|8=5y=1l*0+3$in ", 
+        "meta": {
+            "timestamp": 1535094086476, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:157": {
+        "changeset": "Z:7o>4|8=5y=1o*0+4$idat", 
+        "meta": {
+            "timestamp": 1535094086979, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:150": {
+        "changeset": "Z:7a>1|8=5y=1a*0+1$t", 
+        "meta": {
+            "timestamp": 1535094083456, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:151": {
+        "changeset": "Z:7b>2|8=5y=1b*0+2$zi", 
+        "meta": {
+            "timestamp": 1535094083954, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:152": {
+        "changeset": "Z:7d>1|8=5y=1d*0+1$t", 
+        "meta": {
+            "timestamp": 1535094084475, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:153": {
+        "changeset": "Z:7e>3|8=5y=1e*0+3$ako", 
+        "meta": {
+            "timestamp": 1535094084975, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:81": {
+        "changeset": "Z:3v>4|3=2f=d*0+4$ntu ", 
+        "meta": {
+            "timestamp": 1535093981370, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:519": {
+        "changeset": "Z:my>1|f=mt=4*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094712599, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:572": {
+        "changeset": "Z:pe>2|h=nx=1g*0+2$na", 
+        "meta": {
+            "timestamp": 1535094779592, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:573": {
+        "changeset": "Z:pg>1|h=nx=1i*0+1$.", 
+        "meta": {
+            "timestamp": 1535094780187, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:570": {
+        "changeset": "Z:p9>2|h=nx=1b*0+2$da", 
+        "meta": {
+            "timestamp": 1535094778593, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:571": {
+        "changeset": "Z:pb>3|h=nx=1d*0+3$goe", 
+        "meta": {
+            "timestamp": 1535094779085, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:52": {
+        "changeset": "Z:2d>1|2=13=19*0+1$u", 
+        "meta": {
+            "timestamp": 1535093930173, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:53": {
+        "changeset": "Z:2e>1|2=13=1a*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093933910, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:50": {
+        "changeset": "Z:2a>2|2=13=16*0+2$al", 
+        "meta": {
+            "timestamp": 1535093929166, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:51": {
+        "changeset": "Z:2c>1|2=13=18*0+1$d", 
+        "meta": {
+            "timestamp": 1535093929670, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:56": {
+        "changeset": "Z:2l>2|3=2f=5*0+2$. ", 
+        "meta": {
+            "timestamp": 1535093943872, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:57": {
+        "changeset": "Z:2n>1|3=2f=7*0+1$H", 
+        "meta": {
+            "timestamp": 1535093948618, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:54": {
+        "changeset": "Z:2f>5|2=13=1b*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535093942085, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:55": {
+        "changeset": "Z:2k>1|3=2f=4*0+1$2", 
+        "meta": {
+            "timestamp": 1535093943372, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:58": {
+        "changeset": "Z:2o>2|3=2f=8*0+2$el", 
+        "meta": {
+            "timestamp": 1535093949123, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:59": {
+        "changeset": "Z:2q>1|3=2f=a*0+1$b", 
+        "meta": {
+            "timestamp": 1535093949853, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:479": {
+        "changeset": "Z:lx>1|e=lv=1*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094656004, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:478": {
+        "changeset": "Z:lw>1|e=lv*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094653569, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:374": {
+        "changeset": "Z:gl<2|c=d0=3i-2$", 
+        "meta": {
+            "timestamp": 1535094493917, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:375": {
+        "changeset": "Z:gj<7|c=d0=3b-7$", 
+        "meta": {
+            "timestamp": 1535094494420, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:376": {
+        "changeset": "Z:gc<1|c=d0=3a-1$", 
+        "meta": {
+            "timestamp": 1535094494926, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:377": {
+        "changeset": "Z:gb<8|c=d0=32-8$", 
+        "meta": {
+            "timestamp": 1535094495440, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:279": {
+        "changeset": "Z:c3>1|8=83=3z*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094296779, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:278": {
+        "changeset": "Z:c2>1|8=83=3y*0+1$z", 
+        "meta": {
+            "timestamp": 1535094296278, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:372": {
+        "changeset": "Z:gk>2|c=d0=3j*0+2$n ", 
+        "meta": {
+            "timestamp": 1535094489743, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:373": {
+        "changeset": "Z:gm<1|c=d0=3k-1$", 
+        "meta": {
+            "timestamp": 1535094493279, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:275": {
+        "changeset": "Z:bv>2|8=83=3r*0+2$a ", 
+        "meta": {
+            "timestamp": 1535094293538, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:274": {
+        "changeset": "Z:bs>3|8=83=3o*0+3$ide", 
+        "meta": {
+            "timestamp": 1535094293040, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:277": {
+        "changeset": "Z:c1>1|8=83=3x*0+1$u", 
+        "meta": {
+            "timestamp": 1535094294540, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:276": {
+        "changeset": "Z:bx>4|8=83=3t*0+4$sort", 
+        "meta": {
+            "timestamp": 1535094294040, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:271": {
+        "changeset": "Z:bm>1|8=83=3i*0+1$b", 
+        "meta": {
+            "timestamp": 1535094291537, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:270": {
+        "changeset": "Z:bl>1|8=83=3h*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094290991, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:273": {
+        "changeset": "Z:bq>2|8=83=3m*0+2$ab", 
+        "meta": {
+            "timestamp": 1535094292538, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:272": {
+        "changeset": "Z:bn>3|8=83=3j*0+3$ali", 
+        "meta": {
+            "timestamp": 1535094292038, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:27": {
+        "changeset": "Z:1b>1|2=13=7*0+1$E", 
+        "meta": {
+            "timestamp": 1535093913392, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:26": {
+        "changeset": "Z:1a>1|2=13=6*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093907672, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:25": {
+        "changeset": "Z:19>1|2=13=5*0+1$.", 
+        "meta": {
+            "timestamp": 1535093906020, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:24": {
+        "changeset": "Z:18>1|2=13=4*0+1$1", 
+        "meta": {
+            "timestamp": 1535093905512, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:23": {
+        "changeset": "Z:13>5|1=y=4*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535093900192, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:22": {
+        "changeset": "Z:y>5=x*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535093899539, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:21": {
+        "changeset": "Z:x>1=w*0+1$:", 
+        "meta": {
+            "timestamp": 1535093898788, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:20": {
+        "changeset": "Z:w>1=v*0+1$e", 
+        "meta": {
+            "timestamp": 1535093897574, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:211": {
+        "changeset": "Z:ae>1|3=2f=1s*0+1$a", 
+        "meta": {
+            "timestamp": 1535094141409, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:29": {
+        "changeset": "Z:1f>2|2=13=b*0+2$rp", 
+        "meta": {
+            "timestamp": 1535093914670, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:28": {
+        "changeset": "Z:1c>3|2=13=8*0+3$the", 
+        "meta": {
+            "timestamp": 1535093914150, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:208": {
+        "changeset": "Z:a3>1|3=2f=1h*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094138669, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:209": {
+        "changeset": "Z:a4>7|3=2f=1i*0+7$balioga", 
+        "meta": {
+            "timestamp": 1535094140202, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:210": {
+        "changeset": "Z:ab>3|3=2f=1p*0+3$rri", 
+        "meta": {
+            "timestamp": 1535094140701, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:476": {
+        "changeset": "Z:lv>2|d=hg=4e*0|1+1*0*1*2*3+1$\n*", 
+        "meta": {
+            "timestamp": 1535094649735, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:200": {
+        "changeset": "Z:9s>1|3=2f=16*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094124207, 
+            "atext": {
+                "attribs": "*0|8+6f*0+3d|1+1", 
+                "text": "Prozesua honela laburbil daiteke:\n    \n    1. Etherpad izeneko web aplikazioa zabaldu \n    2. Dokumentu bat sortu **web orretan** .\n    3. Helbide hori gorde (?)\n    4. Idatzi dokumentua\n    5. Web helbidea ikerlariari pasatu\n    \nIkerlariak, orduan, web helbide hori duela idatzitakoa zein idazketa prozesu osoa gordetzen duen dokumentua jaits dezake \n"
+            }, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:85": {
+        "changeset": "Z:47>1|3=2f=p*0+1$u", 
+        "meta": {
+            "timestamp": 1535093983369, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:202": {
+        "changeset": "Z:9u>1|3=2f=18*0+1$[", 
+        "meta": {
+            "timestamp": 1535094129849, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:203": {
+        "changeset": "Z:9v>1|3=2f=19*0+1$e", 
+        "meta": {
+            "timestamp": 1535094131451, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:204": {
+        "changeset": "Z:9w>2|3=2f=1a*0+2$z ", 
+        "meta": {
+            "timestamp": 1535094131950, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:205": {
+        "changeset": "Z:9y>1|3=2f=1c*0+1$b", 
+        "meta": {
+            "timestamp": 1535094132583, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:206": {
+        "changeset": "Z:9z>3|3=2f=1d*0+3$ait", 
+        "meta": {
+            "timestamp": 1535094133084, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:216": {
+        "changeset": "Z:a3<1|3=2f=1g-1$", 
+        "meta": {
+            "timestamp": 1535094149584, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:198": {
+        "changeset": "Z:9q>1|3=2f=r*0+1$*", 
+        "meta": {
+            "timestamp": 1535094120118, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:199": {
+        "changeset": "Z:9r>1|3=2f=s*0+1$*", 
+        "meta": {
+            "timestamp": 1535094120620, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:474": {
+        "changeset": "Z:lv>1|d=hg=1y*0+1$)", 
+        "meta": {
+            "timestamp": 1535094640260, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:87": {
+        "changeset": "Z:49<1|4=37=4-1$", 
+        "meta": {
+            "timestamp": 1535093988041, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:190": {
+        "changeset": "Z:9e>2|3=2f=s*0+2$eb", 
+        "meta": {
+            "timestamp": 1535094109442, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:191": {
+        "changeset": "Z:9g>1|3=2f=u*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094109941, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:192": {
+        "changeset": "Z:9h>1|3=2f=v*0+1$o", 
+        "meta": {
+            "timestamp": 1535094113611, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:193": {
+        "changeset": "Z:9i>1|3=2f=w*0+1$r", 
+        "meta": {
+            "timestamp": 1535094114112, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:194": {
+        "changeset": "Z:9j>2|3=2f=x*0+2$re", 
+        "meta": {
+            "timestamp": 1535094114613, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:195": {
+        "changeset": "Z:9l>3|3=2f=z*0+3$tan", 
+        "meta": {
+            "timestamp": 1535094115279, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:196": {
+        "changeset": "Z:9o>1|3=2f=12*0+1$*", 
+        "meta": {
+            "timestamp": 1535094116091, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:197": {
+        "changeset": "Z:9p>1|3=2f=13*0+1$*", 
+        "meta": {
+            "timestamp": 1535094116591, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:471": {
+        "changeset": "Z:ku>1|d=hg=x*0+1$(", 
+        "meta": {
+            "timestamp": 1535094623356, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:470": {
+        "changeset": "Z:kt>1|d=hg=w*0+1$]", 
+        "meta": {
+            "timestamp": 1535094622366, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:6": {
+        "changeset": "Z:7>2=6*0+2$ua", 
+        "meta": {
+            "timestamp": 1535093884745, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:293": {
+        "changeset": "Z:ch>2|8=83=4d*0+2$tu", 
+        "meta": {
+            "timestamp": 1535094304871, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:292": {
+        "changeset": "Z:cf>2|8=83=4b*0+2$za", 
+        "meta": {
+            "timestamp": 1535094304373, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:291": {
+        "changeset": "Z:ch<2|8=83=4b-2$", 
+        "meta": {
+            "timestamp": 1535094304024, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:290": {
+        "changeset": "Z:cj<2|8=83=4d-2$", 
+        "meta": {
+            "timestamp": 1535094303369, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:297": {
+        "changeset": "Z:cm>1|a=cl*0+1$J", 
+        "meta": {
+            "timestamp": 1535094315775, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:296": {
+        "changeset": "Z:cl>1|9=ck*0|1+1$\n", 
+        "meta": {
+            "timestamp": 1535094313375, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:295": {
+        "changeset": "Z:ck>1|8=83=4g*0|1+1$\n", 
+        "meta": {
+            "timestamp": 1535094312645, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:294": {
+        "changeset": "Z:cj>1|8=83=4f*0+1$.", 
+        "meta": {
+            "timestamp": 1535094305688, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:299": {
+        "changeset": "Z:cp>3|a=cl=3*0+3$ste", 
+        "meta": {
+            "timestamp": 1535094317373, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:298": {
+        "changeset": "Z:cn>2|a=cl=1*0+2$ai", 
+        "meta": {
+            "timestamp": 1535094316572, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:103": {
+        "changeset": "Z:4x>1|6=4q=5*0+1$.", 
+        "meta": {
+            "timestamp": 1535094029193, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:102": {
+        "changeset": "Z:4w>1|6=4q=4*0+1$5", 
+        "meta": {
+            "timestamp": 1535094028003, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:101": {
+        "changeset": "Z:4r>5|5=41=o*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535094026912, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:100": {
+        "changeset": "Z:4p>2|5=41=m*0+2$ua", 
+        "meta": {
+            "timestamp": 1535094015641, 
+            "atext": {
+                "attribs": "*0|5+41*0+p|1+1", 
+                "text": "Prozesua honela laburbil daiteke:\n    \n    1. Etherpad izeneko web aplikazioa zabaldu \n    2. Dokumentu bat sortu.\n    3. Helbide hori gorde (?)\n    4. Idatzi dokumentua \n"
+            }, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:107": {
+        "changeset": "Z:51>1|6=4q=9*0+1$b", 
+        "meta": {
+            "timestamp": 1535094034417, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:106": {
+        "changeset": "Z:50>1|6=4q=8*0+1$e", 
+        "meta": {
+            "timestamp": 1535094033906, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:105": {
+        "changeset": "Z:4z>1|6=4q=7*0+1$W", 
+        "meta": {
+            "timestamp": 1535094033408, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:104": {
+        "changeset": "Z:4y>1|6=4q=6*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094030049, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:109": {
+        "changeset": "Z:53>1|6=4q=b*0+1$h", 
+        "meta": {
+            "timestamp": 1535094036069, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:108": {
+        "changeset": "Z:52>1|6=4q=a*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094035215, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:562": {
+        "changeset": "Z:oq>1|h=nx=s*0+1$o", 
+        "meta": {
+            "timestamp": 1535094774305, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:187": {
+        "changeset": "Z:9a>2|8=5y=3a*0+2$ke", 
+        "meta": {
+            "timestamp": 1535094103516, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:186": {
+        "changeset": "Z:98>2|8=5y=38*0+2$za", 
+        "meta": {
+            "timestamp": 1535094103018, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:491": {
+        "changeset": "Z:m1<1|e=lt=6-1$", 
+        "meta": {
+            "timestamp": 1535094688469, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:472": {
+        "changeset": "Z:kv>1|d=hg=y*0+1$)", 
+        "meta": {
+            "timestamp": 1535094624101, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:490": {
+        "changeset": "Z:m0>1|e=lt=6*0+1$E", 
+        "meta": {
+            "timestamp": 1535094687700, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:493": {
+        "changeset": "Z:m1>1|e=lt=7*0+1$e", 
+        "meta": {
+            "timestamp": 1535094689894, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:492": {
+        "changeset": "Z:m0>1|e=lt=6*0+1$.", 
+        "meta": {
+            "timestamp": 1535094689386, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:495": {
+        "changeset": "Z:m5>2|e=lt=b*0+2$rp", 
+        "meta": {
+            "timestamp": 1535094690911, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:494": {
+        "changeset": "Z:m2>3|e=lt=8*0+3$the", 
+        "meta": {
+            "timestamp": 1535094690404, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:497": {
+        "changeset": "Z:m9>1|e=lt=f*0+1$`", 
+        "meta": {
+            "timestamp": 1535094692366, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:221": {
+        "changeset": "Z:a9>1|3=2f=1n*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094154971, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:496": {
+        "changeset": "Z:m7>2|e=lt=d*0+2$ad", 
+        "meta": {
+            "timestamp": 1535094691414, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:538": {
+        "changeset": "Z:nx>3|g=nu=2*0|1+1*0+2$\n  ", 
+        "meta": {
+            "timestamp": 1535094743667, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:539": {
+        "changeset": "Z:o0<2|h=nx-2$", 
+        "meta": {
+            "timestamp": 1535094745166, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:532": {
+        "changeset": "Z:nh>3|f=mt=n*0+3$eki", 
+        "meta": {
+            "timestamp": 1535094731255, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:533": {
+        "changeset": "Z:nk>4|f=mt=q*0+4$n er", 
+        "meta": {
+            "timestamp": 1535094731755, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:530": {
+        "changeset": "Z:nf>1|f=mt=l*0+1$a", 
+        "meta": {
+            "timestamp": 1535094722273, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:531": {
+        "changeset": "Z:ng>1|f=mt=m*0+1$r", 
+        "meta": {
+            "timestamp": 1535094730752, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:536": {
+        "changeset": "Z:nt>1|f=mt=z*0+1$.", 
+        "meta": {
+            "timestamp": 1535094740934, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:537": {
+        "changeset": "Z:nu>3|f=mt=10*0|1+1*0+2$\n  ", 
+        "meta": {
+            "timestamp": 1535094743165, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:534": {
+        "changeset": "Z:no>3|f=mt=u*0+3$abi", 
+        "meta": {
+            "timestamp": 1535094732256, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:535": {
+        "changeset": "Z:nr>2|f=mt=x*0+2$li", 
+        "meta": {
+            "timestamp": 1535094732755, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:408": {
+        "changeset": "Z:ht>1|d=hg=c*0+1$k", 
+        "meta": {
+            "timestamp": 1535094526683, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:409": {
+        "changeset": "Z:hu>1|d=hg=d*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094529461, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:406": {
+        "changeset": "Z:hq>2|d=hg=9*0+2$ll", 
+        "meta": {
+            "timestamp": 1535094525452, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:407": {
+        "changeset": "Z:hs>1|d=hg=b*0+1$a", 
+        "meta": {
+            "timestamp": 1535094526180, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:404": {
+        "changeset": "Z:ho>1|d=hg=7*0+1$z", 
+        "meta": {
+            "timestamp": 1535094524453, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:405": {
+        "changeset": "Z:hp>1|d=hg=8*0+1$i", 
+        "meta": {
+            "timestamp": 1535094524953, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:402": {
+        "changeset": "Z:hm>1|d=hg=5*0+1$M", 
+        "meta": {
+            "timestamp": 1535094520864, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:403": {
+        "changeset": "Z:hn>1|d=hg=6*0+1$o", 
+        "meta": {
+            "timestamp": 1535094521366, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:400": {
+        "changeset": "Z:hg>5|c=d0=4f*0|1+1*0+4$\n    ", 
+        "meta": {
+            "timestamp": 1535094517241, 
+            "atext": {
+                "attribs": "*0|d+hg*0+4|1+1", 
+                "text": "Prozesua honela laburbil daiteke:\n    \n    1. Etherpad izeneko web aplikazioa zabaldu \n    2. Dokumentu bat sortu **web orretan** ^[ez baitu balio prozesua beste aplikazioren batean egiteak].\n    3. Helbide hori gorde (?)\n    4. Idatzi dokumentua\n    5. Web helbidea ikerlariari pasatu\n    \nIkerlariak, orduan, web helbide hori duela idatzitakoa zein idazketa prozesu osoa gordetzen duen dokumentua jaits dezake, eta baliabidea sortuz gero, analizatu.\n\nJaisteko:\n    \n    1. Joan informatzaileak emandako web helbidera eta goian agertzen diren ikonoetariko batean dokumentua hainbat formatutan deskargatzeko aukera ematen du.  \n    \n"
+            }, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:401": {
+        "changeset": "Z:hl>1|d=hg*0*1*2*3+1$*", 
+        "meta": {
+            "timestamp": 1535094519256, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:69": {
+        "changeset": "Z:38>1|3=2f=s*0+1$)", 
+        "meta": {
+            "timestamp": 1535093959289, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:68": {
+        "changeset": "Z:37>1|3=2f=r*0+1$?", 
+        "meta": {
+            "timestamp": 1535093958794, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:63": {
+        "changeset": "Z:30>1|3=2f=k*0+1$g", 
+        "meta": {
+            "timestamp": 1535093952043, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:62": {
+        "changeset": "Z:2x>3|3=2f=h*0+3$ri ", 
+        "meta": {
+            "timestamp": 1535093951350, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:61": {
+        "changeset": "Z:2u>3|3=2f=e*0+3$ ho", 
+        "meta": {
+            "timestamp": 1535093950851, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:60": {
+        "changeset": "Z:2r>3|3=2f=b*0+3$ide", 
+        "meta": {
+            "timestamp": 1535093950353, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:67": {
+        "changeset": "Z:36>1|3=2f=q*0+1$(", 
+        "meta": {
+            "timestamp": 1535093958291, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:66": {
+        "changeset": "Z:35>1|3=2f=p*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093957790, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:65": {
+        "changeset": "Z:33>2|3=2f=n*0+2$de", 
+        "meta": {
+            "timestamp": 1535093953043, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:64": {
+        "changeset": "Z:31>2|3=2f=l*0+2$or", 
+        "meta": {
+            "timestamp": 1535093952545, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:499": {
+        "changeset": "Z:mb>1|e=lt=h*0+1$p", 
+        "meta": {
+            "timestamp": 1535094693813, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:498": {
+        "changeset": "Z:ma>1|e=lt=g*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094692867, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:329": {
+        "changeset": "Z:e9>1|c=d0=18*0+1$b", 
+        "meta": {
+            "timestamp": 1535094374984, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:328": {
+        "changeset": "Z:e8>1|c=d0=17*0+1$l", 
+        "meta": {
+            "timestamp": 1535094374344, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:86": {
+        "changeset": "Z:48>1|3=2f=q*0+1$.", 
+        "meta": {
+            "timestamp": 1535093984969, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:323": {
+        "changeset": "Z:e1>1|c=d0=10*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094371165, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:322": {
+        "changeset": "Z:dy>3|c=d0=x*0+3$ako", 
+        "meta": {
+            "timestamp": 1535094370665, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:321": {
+        "changeset": "Z:du>4|c=d0=t*0+4$mand", 
+        "meta": {
+            "timestamp": 1535094370163, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:320": {
+        "changeset": "Z:dr>3|c=d0=q*0+3$k e", 
+        "meta": {
+            "timestamp": 1535094369661, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:327": {
+        "changeset": "Z:e6>2|c=d0=15*0+2$he", 
+        "meta": {
+            "timestamp": 1535094373843, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:326": {
+        "changeset": "Z:e5>1|c=d0=14*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094373343, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:325": {
+        "changeset": "Z:e3>2|c=d0=12*0+2$eb", 
+        "meta": {
+            "timestamp": 1535094372842, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:324": {
+        "changeset": "Z:e2>1|c=d0=11*0+1$w", 
+        "meta": {
+            "timestamp": 1535094372342, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:244": {
+        "changeset": "Z:bd>2|3=2f=2r*0+2$ea", 
+        "meta": {
+            "timestamp": 1535094169545, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:245": {
+        "changeset": "Z:bf>1|3=2f=2t*0+1$k", 
+        "meta": {
+            "timestamp": 1535094170045, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:246": {
+        "changeset": "Z:bg>1|3=2f=2u*0+1$]", 
+        "meta": {
+            "timestamp": 1535094172192, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:247": {
+        "changeset": "Z:bh<1|8=83=3c-1$", 
+        "meta": {
+            "timestamp": 1535094179852, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:240": {
+        "changeset": "Z:b6>1|3=2f=2k*0+1$a", 
+        "meta": {
+            "timestamp": 1535094167310, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:241": {
+        "changeset": "Z:b7>2|3=2f=2l*0+2$n ", 
+        "meta": {
+            "timestamp": 1535094167804, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:242": {
+        "changeset": "Z:b9>1|3=2f=2n*0+1$e", 
+        "meta": {
+            "timestamp": 1535094168543, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:243": {
+        "changeset": "Z:ba>3|3=2f=2o*0+3$git", 
+        "meta": {
+            "timestamp": 1535094169044, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:248": {
+        "changeset": "Z:bg>1|8=83=3c*0+1$.", 
+        "meta": {
+            "timestamp": 1535094180829, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:249": {
+        "changeset": "Z:bh>1|8=83=3d*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094186917, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:396": {
+        "changeset": "Z:h9>4|c=d0=48*0+4$n du", 
+        "meta": {
+            "timestamp": 1535094506367, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:397": {
+        "changeset": "Z:hd>1|c=d0=4c*0+1$.", 
+        "meta": {
+            "timestamp": 1535094515695, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:394": {
+        "changeset": "Z:h6>1|c=d0=45*0+1$a", 
+        "meta": {
+            "timestamp": 1535094505364, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:395": {
+        "changeset": "Z:h7>2|c=d0=46*0+2$te", 
+        "meta": {
+            "timestamp": 1535094505871, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:392": {
+        "changeset": "Z:h0>4|c=d0=3z*0+4$era ", 
+        "meta": {
+            "timestamp": 1535094503996, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:393": {
+        "changeset": "Z:h4>2|c=d0=43*0+2$em", 
+        "meta": {
+            "timestamp": 1535094504498, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:390": {
+        "changeset": "Z:gu>3|c=d0=3t*0+3$ko ", 
+        "meta": {
+            "timestamp": 1535094502995, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:391": {
+        "changeset": "Z:gx>3|c=d0=3w*0+3$auk", 
+        "meta": {
+            "timestamp": 1535094503495, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:370": {
+        "changeset": "Z:ge>3|c=d0=3d*0+3$din", 
+        "meta": {
+            "timestamp": 1535094488743, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:398": {
+        "changeset": "Z:he>1|c=d0=4d*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094516238, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:371": {
+        "changeset": "Z:gh>3|c=d0=3g*0+3$eta", 
+        "meta": {
+            "timestamp": 1535094489243, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:149": {
+        "changeset": "Z:78>2|8=5y=18*0+2$da", 
+        "meta": {
+            "timestamp": 1535094082961, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:148": {
+        "changeset": "Z:77>1|8=5y=17*0+1$i", 
+        "meta": {
+            "timestamp": 1535094082460, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:147": {
+        "changeset": "Z:76>1|8=5y=16*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094077028, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:146": {
+        "changeset": "Z:75>1|8=5y=15*0+1$a", 
+        "meta": {
+            "timestamp": 1535094070068, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:145": {
+        "changeset": "Z:71>4|8=5y=11*0+4$duel", 
+        "meta": {
+            "timestamp": 1535094069569, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:144": {
+        "changeset": "Z:6z>2|8=5y=z*0+2$i ", 
+        "meta": {
+            "timestamp": 1535094069068, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:143": {
+        "changeset": "Z:6w>3|8=5y=w*0+3$hor", 
+        "meta": {
+            "timestamp": 1535094068568, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:142": {
+        "changeset": "Z:6t>3|8=5y=t*0+3$de ", 
+        "meta": {
+            "timestamp": 1535094068066, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:141": {
+        "changeset": "Z:6r>2|8=5y=r*0+2$bi", 
+        "meta": {
+            "timestamp": 1535094067566, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:140": {
+        "changeset": "Z:6p>2|8=5y=p*0+2$el", 
+        "meta": {
+            "timestamp": 1535094067068, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:378": {
+        "changeset": "Z:g3<2|c=d0=30-2$", 
+        "meta": {
+            "timestamp": 1535094495941, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:379": {
+        "changeset": "Z:g1<1|c=d0=2z-1$", 
+        "meta": {
+            "timestamp": 1535094496443, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:399": {
+        "changeset": "Z:hf>1|c=d0=4e*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094516739, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:477": {
+        "changeset": "Z:lx<1|e=lv-1$", 
+        "meta": {
+            "timestamp": 1535094651699, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:433": {
+        "changeset": "Z:j3>1|d=hg=1m*0+1$.", 
+        "meta": {
+            "timestamp": 1535094559599, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:432": {
+        "changeset": "Z:j2>1|d=hg=1l*0+1$`", 
+        "meta": {
+            "timestamp": 1535094559099, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:431": {
+        "changeset": "Z:j1>1|d=hg=1k*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094555440, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:561": {
+        "changeset": "Z:op>1|h=nx=r*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094771980, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:560": {
+        "changeset": "Z:oo>1|h=nx=q*0+1$a", 
+        "meta": {
+            "timestamp": 1535094769084, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:448": {
+        "changeset": "Z:jp>1|d=hg=28*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094580761, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:430": {
+        "changeset": "Z:j0>1|d=hg=1j*0+1$,", 
+        "meta": {
+            "timestamp": 1535094554922, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:565": {
+        "changeset": "Z:oy>1|h=nx=10*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094775951, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:564": {
+        "changeset": "Z:ow>2|h=nx=y*0+2$ik", 
+        "meta": {
+            "timestamp": 1535094775445, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:567": {
+        "changeset": "Z:p0>3|h=nx=12*0+3$ara", 
+        "meta": {
+            "timestamp": 1535094777076, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:566": {
+        "changeset": "Z:oz>1|h=nx=11*0+1$g", 
+        "meta": {
+            "timestamp": 1535094776582, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:442": {
+        "changeset": "Z:jf>1|d=hg=1y*0+1$.", 
+        "meta": {
+            "timestamp": 1535094575231, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:437": {
+        "changeset": "Z:j8>1|d=hg=1r*0+1$`", 
+        "meta": {
+            "timestamp": 1535094563221, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:440": {
+        "changeset": "Z:jb>3|d=hg=1u*0+3$ta ", 
+        "meta": {
+            "timestamp": 1535094566333, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:441": {
+        "changeset": "Z:je>1|d=hg=1x*0+1$`", 
+        "meta": {
+            "timestamp": 1535094568249, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:446": {
+        "changeset": "Z:jm>2|d=hg=25*0+2$ad", 
+        "meta": {
+            "timestamp": 1535094577464, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:447": {
+        "changeset": "Z:jo>1|d=hg=27*0+1$`", 
+        "meta": {
+            "timestamp": 1535094580262, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:444": {
+        "changeset": "Z:ji>1|d=hg=21*0+1$h", 
+        "meta": {
+            "timestamp": 1535094576476, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:436": {
+        "changeset": "Z:j7>1|d=hg=1q*0+1$l", 
+        "meta": {
+            "timestamp": 1535094561260, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:435": {
+        "changeset": "Z:j5>2|d=hg=1o*0+2$tm", 
+        "meta": {
+            "timestamp": 1535094560758, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:434": {
+        "changeset": "Z:j4>1|d=hg=1n*0+1$h", 
+        "meta": {
+            "timestamp": 1535094560256, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:513": {
+        "changeset": "Z:mq>3|e=lt=w*0+3$tsi", 
+        "meta": {
+            "timestamp": 1535094701274, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:367": {
+        "changeset": "Z:g0>1|c=d0=2z*0+1$f", 
+        "meta": {
+            "timestamp": 1535094485865, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:366": {
+        "changeset": "Z:fz>1|c=d0=2y*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094485120, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:365": {
+        "changeset": "Z:fy>1|c=d0=2x*0+1$a", 
+        "meta": {
+            "timestamp": 1535094482326, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:364": {
+        "changeset": "Z:ft>5|c=d0=2s*0+5$mentu", 
+        "meta": {
+            "timestamp": 1535094481695, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:363": {
+        "changeset": "Z:fq>3|c=d0=2p*0+3$oku", 
+        "meta": {
+            "timestamp": 1535094480607, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:362": {
+        "changeset": "Z:fp>1|c=d0=2o*0+1$d", 
+        "meta": {
+            "timestamp": 1535094480107, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:361": {
+        "changeset": "Z:fo>1|c=d0=2n*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094478397, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:360": {
+        "changeset": "Z:fm>2|c=d0=2l*0+2$an", 
+        "meta": {
+            "timestamp": 1535094435309, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:369": {
+        "changeset": "Z:gb>3|c=d0=3a*0+3$ber", 
+        "meta": {
+            "timestamp": 1535094488241, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:368": {
+        "changeset": "Z:g1>a|c=d0=30*0+a$ormatu des", 
+        "meta": {
+            "timestamp": 1535094487738, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:475": {
+        "changeset": "Z:lw<1|d=hg=y-1$", 
+        "meta": {
+            "timestamp": 1535094644756, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:34": {
+        "changeset": "Z:1p>2|2=13=l*0+2$ko", 
+        "meta": {
+            "timestamp": 1535093919404, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:35": {
+        "changeset": "Z:1r>1|2=13=n*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093919910, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:36": {
+        "changeset": "Z:1s>1|2=13=o*0+1$a", 
+        "meta": {
+            "timestamp": 1535093920556, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:37": {
+        "changeset": "Z:1t>1|2=13=p*0+1$p", 
+        "meta": {
+            "timestamp": 1535093920995, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:30": {
+        "changeset": "Z:1h>2|2=13=d*0+2$ad", 
+        "meta": {
+            "timestamp": 1535093915168, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:31": {
+        "changeset": "Z:1j>1|2=13=f*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093917903, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:32": {
+        "changeset": "Z:1k>2|2=13=g*0+2$iz", 
+        "meta": {
+            "timestamp": 1535093918406, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:33": {
+        "changeset": "Z:1m>3|2=13=i*0+3$ene", 
+        "meta": {
+            "timestamp": 1535093918905, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:38": {
+        "changeset": "Z:1u<2|2=13=o-2$", 
+        "meta": {
+            "timestamp": 1535093921506, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:39": {
+        "changeset": "Z:1s>1|2=13=o*0+1$w", 
+        "meta": {
+            "timestamp": 1535093922387, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:89": {
+        "changeset": "Z:49<1|5=41=4-1$", 
+        "meta": {
+            "timestamp": 1535093990235, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:88": {
+        "changeset": "Z:48>1|4=37=4*0+1$3", 
+        "meta": {
+            "timestamp": 1535093988545, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:219": {
+        "changeset": "Z:a4>1|3=2f=1i*0+1$b", 
+        "meta": {
+            "timestamp": 1535094151815, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:218": {
+        "changeset": "Z:a3>1|3=2f=1h*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094151314, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:213": {
+        "changeset": "Z:ae<1|3=2f=1r-1$", 
+        "meta": {
+            "timestamp": 1535094148078, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:80": {
+        "changeset": "Z:3s>3|3=2f=a*0+3$ume", 
+        "meta": {
+            "timestamp": 1535093980868, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:83": {
+        "changeset": "Z:41>2|3=2f=j*0+2$t ", 
+        "meta": {
+            "timestamp": 1535093982368, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:82": {
+        "changeset": "Z:3z>2|3=2f=h*0+2$ba", 
+        "meta": {
+            "timestamp": 1535093981871, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:217": {
+        "changeset": "Z:a2>1|3=2f=1g*0+1$u", 
+        "meta": {
+            "timestamp": 1535094150813, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:84": {
+        "changeset": "Z:43>4|3=2f=l*0+4$sort", 
+        "meta": {
+            "timestamp": 1535093982868, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:215": {
+        "changeset": "Z:a5<2|3=2f=1h-2$", 
+        "meta": {
+            "timestamp": 1535094149082, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:214": {
+        "changeset": "Z:ad<8|3=2f=1j-8$", 
+        "meta": {
+            "timestamp": 1535094148580, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:4": {
+        "changeset": "Z:4>1=3*0+1$z", 
+        "meta": {
+            "timestamp": 1535093883743, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:5": {
+        "changeset": "Z:5>2=4*0+2$es", 
+        "meta": {
+            "timestamp": 1535093884279, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:189": {
+        "changeset": "Z:9d>1|3=2f=r*0+1$w", 
+        "meta": {
+            "timestamp": 1535094108941, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:7": {
+        "changeset": "Z:9>1=8*0+1$ ", 
+        "meta": {
+            "timestamp": 1535093890034, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:0": {
+        "changeset": "Z:1>6b|5+6b$Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at http://etherpad.org\n", 
+        "meta": {
+            "timestamp": 1535093831861, 
+            "atext": {
+                "attribs": "|6+6c", 
+                "text": "Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at http://etherpad.org\n\n"
+            }, 
+            "author": ""
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:1": {
+        "changeset": "Z:6c<6b|5-6b$", 
+        "meta": {
+            "timestamp": 1535093854605, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:2": {
+        "changeset": "Z:1>1*0+1$P", 
+        "meta": {
+            "timestamp": 1535093882747, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:3": {
+        "changeset": "Z:2>2=1*0+2$ro", 
+        "meta": {
+            "timestamp": 1535093883266, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:183": {
+        "changeset": "Z:91>2|8=5y=31*0+2$ai", 
+        "meta": {
+            "timestamp": 1535094101517, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:182": {
+        "changeset": "Z:90>1|8=5y=30*0+1$j", 
+        "meta": {
+            "timestamp": 1535094101017, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:181": {
+        "changeset": "Z:8y>2|8=5y=2y*0+2$a ", 
+        "meta": {
+            "timestamp": 1535094100268, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:180": {
+        "changeset": "Z:8w>2|8=5y=2w*0+2$tu", 
+        "meta": {
+            "timestamp": 1535094099768, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:8": {
+        "changeset": "Z:a>2=9*0+2$ho", 
+        "meta": {
+            "timestamp": 1535093891394, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:9": {
+        "changeset": "Z:c>2=b*0+2$ne", 
+        "meta": {
+            "timestamp": 1535093891898, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:185": {
+        "changeset": "Z:96>2|8=5y=36*0+2$de", 
+        "meta": {
+            "timestamp": 1535094102518, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:184": {
+        "changeset": "Z:93>3|8=5y=33*0+3$ts ", 
+        "meta": {
+            "timestamp": 1535094102017, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:473": {
+        "changeset": "Z:kw>z|d=hg=z*0+z$https://public.etherpad-mozilla.org", 
+        "meta": {
+            "timestamp": 1535094637161, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:545": {
+        "changeset": "Z:o9>2|h=nx=b*0+2$tr", 
+        "meta": {
+            "timestamp": 1535094748550, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:201": {
+        "changeset": "Z:9t>1|3=2f=17*0+1$^", 
+        "meta": {
+            "timestamp": 1535094128297, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:136": {
+        "changeset": "Z:6k>1|8=5y=k*0+1$w", 
+        "meta": {
+            "timestamp": 1535094065070, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:137": {
+        "changeset": "Z:6l>2|8=5y=l*0+2$eb", 
+        "meta": {
+            "timestamp": 1535094065568, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:134": {
+        "changeset": "Z:6i>1|8=5y=i*0+1$,", 
+        "meta": {
+            "timestamp": 1535094063094, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:135": {
+        "changeset": "Z:6j>1|8=5y=j*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094063717, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:132": {
+        "changeset": "Z:6c>3|8=5y=c*0+3$ord", 
+        "meta": {
+            "timestamp": 1535094059456, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:133": {
+        "changeset": "Z:6f>3|8=5y=f*0+3$uan", 
+        "meta": {
+            "timestamp": 1535094059956, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:130": {
+        "changeset": "Z:69>1|8=5y=9*0+1$k", 
+        "meta": {
+            "timestamp": 1535094058452, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:131": {
+        "changeset": "Z:6a>2|8=5y=a*0+2$, ", 
+        "meta": {
+            "timestamp": 1535094058952, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:466": {
+        "changeset": "Z:kn>1|d=hg=36*0+1$n", 
+        "meta": {
+            "timestamp": 1535094589906, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:138": {
+        "changeset": "Z:6n>1|8=5y=n*0+1$ ", 
+        "meta": {
+            "timestamp": 1535094066074, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:139": {
+        "changeset": "Z:6o>1|8=5y=o*0+1$h", 
+        "meta": {
+            "timestamp": 1535094066570, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:467": {
+        "changeset": "Z:ko>3|d=hg=37*0+3$ du", 
+        "meta": {
+            "timestamp": 1535094590408, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:460": {
+        "changeset": "Z:ke>4|d=hg=2x*0+4$era ", 
+        "meta": {
+            "timestamp": 1535094586902, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:207": {
+        "changeset": "Z:a2>1|3=2f=1g*0+1$a", 
+        "meta": {
+            "timestamp": 1535094133586, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:461": {
+        "changeset": "Z:ki>1|d=hg=31*0+1$e", 
+        "meta": {
+            "timestamp": 1535094587403, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:462": {
+        "changeset": "Z:kj>2|d=hg=32*0+2$mo", 
+        "meta": {
+            "timestamp": 1535094587904, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna": {
+        "head": 573, 
+        "passwordHash": null, 
+        "publicStatus": false, 
+        "savedRevisions": [], 
+        "chatHead": -1, 
+        "atext": {
+            "attribs": "*0|d+he*0*1*2*3+1*0|4+6i*0+1j|1+1", 
+            "text": "Prozesua honela laburbil daiteke:\n    \n    1. Etherpad izeneko web aplikazioa zabaldu \n    2. Dokumentu bat sortu **web orretan** ^[ez baitu balio prozesua beste aplikazioren batean egiteak].\n    3. Helbide hori gorde (?)\n    4. Idatzi dokumentua\n    5. Web helbidea ikerlariari pasatu\n    \nIkerlariak, orduan, web helbide hori duela idatzitakoa zein idazketa prozesu osoa gordetzen duen dokumentua jaits dezake, eta baliabidea sortuz gero, analizatu.\n\nJaisteko:\n    \n  1. Joan informatzaileak emandako web helbidera eta goian agertzen diren ikonoetariko batean dokumentua hainbat formatutan deskargatzeko aukera ematen du.  \n*    [Mozillak eskaintzen duenak](https://public.etherpad-mozilla.org), esate baterako, `.txt`, `.html` eta `.etherpad` formatuetan jaisteko aukera ematen du.\n  2. `.etherpad` formatuduna jaitsi\n  3. Aztertzeko tresnarekin erabili.\n  \n*Aztertzeko tresna* hori da oraindik garatzeko dagoena.\n"
+        }, 
+        "pool": {
+            "nextNum": 4, 
+            "numToAttrib": {
+                "1": [
+                    "insertorder", 
+                    "first"
+                ], 
+                "0": [
+                    "author", 
+                    "a.ao3KA1J3ReC4HCmy"
+                ], 
+                "3": [
+                    "lmkr", 
+                    "1"
+                ], 
+                "2": [
+                    "list", 
+                    "indent1"
+                ]
+            }
+        }
+    }, 
+    "pad:Etherpad-idazketa-aztertzeko-tresna:revs:463": {
+        "changeset": "Z:kl<1|d=hg=33-1$", 
+        "meta": {
+            "timestamp": 1535094588405, 
+            "author": "a.ao3KA1J3ReC4HCmy"
+        }
+    }
+}

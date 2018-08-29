@@ -5,3 +5,4 @@ Aurkezpenak, datuak eta beste daude honetan
 
 Kontaktua:  [![](./irudiak/telegramen.svg)](http://t.me/JuanAbasolo) [:e-mail: ](mailto:juan.abasolo@ehu.eus) 
 
+Web horri formatua eraikitzen nabil hemen
