@@ -1,0 +1,14 @@
+name: "Ikerketan"
+navbar:
+  title: "Ikerketan"
+  left:
+    - text: "Etxea"
+      href: index.html
+    - text: "Honi buruz"
+      href: about.html
+output:
+  html_document:
+    highlight: textmate
+#    include:
+#      after_body: footer.html
+    css: styles.css

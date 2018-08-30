@@ -1,0 +1,8 @@
+---
+title: "About This Website"
+---
+
+Kontaktua:  [![](./irudiak/telegramen.svg)](http://t.me/JuanAbasolo) [:e-mail: ](mailto:juan.abasolo@ehu.eus) 
+
+```{r, child="_sessioninfo.Rmd"}
+```
