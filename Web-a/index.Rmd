@@ -6,6 +6,6 @@ Aurkezpenak, datuak eta beste daude honetan
 
 [EUDIA7](https://github.com/JuanAbasolo/Ikerketan/tree/EUDIA7), Leioan, 2018/06/08. Eta komunikazioari dagokion [artikulua](1808-Aditz-jokatuan-zailtasunak-nonWEBDOC.html)
 
-[Idazketan aztertzeko tresna](https://juanabasolo.github.io/Ikerketan/180828_Proiektua.html) egiteko proiektua.
+[Idazketan aztertzeko tresna](https://juanabasolo.github.io/Ikerketan/180828_Proiektua.html) egiteko proiektua, eta horren aurkezpena: [![](irudiak/slideshow.svg)](https://juanabasolo.github.io/Ikerketan/180830_reveal-aurkezpena.html)
 
 
