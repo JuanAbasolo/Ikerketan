@@ -8,4 +8,6 @@ Aurkezpenak, datuak eta beste daude honetan
 
 [Idazketan aztertzeko tresna](https://juanabasolo.github.io/Ikerketan/180828_Proiektua.html) egiteko proiektua, eta horren aurkezpena: [![](irudiak/slideshow.svg)](https://juanabasolo.github.io/Ikerketan/180830_reveal-aurkezpena.html)
 
+IPAko kodeketatik abiatuta, lemak bereizteko prozesuaren ahalegina [hemen](https://juanabasolo.github.io/Ikerketan/Distantziak_eta_alineR.html)
+
 
