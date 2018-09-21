@@ -1,8 +1,51 @@
 ---
-title: "About This Website"
+title: "About me"
 ---
 
+Argentinan jaio hazi eta bertatik 22 urte nituela emigratu nuen Euskal Herrira. Behin etorrita hainbat jardun eta zereginetan ibili naiz. Orain 15 bat urte ibilbide akademikoan hasi nintzen eta 2011tik karrera akademikoan. 
+
 Kontaktua:  [![](./irudiak/telegramen.svg)](http://t.me/JuanAbasolo) [:e-mail: ](mailto:juan.abasolo@ehu.eus) 
+
+Ikasketak:
+
+* Psikodidaktikan Doktorea 2017
+* Pedagokian lizentziatua 2007
+* Irakasle diplomatua 2005
+
+2018ko urtarriletik Hizkuntza eta Literaturaren Didaktika sailean, Bilboko Hezkuntza Fakultatean. Eta urte bereko uztailetik [EUDIA](https://www.ehu.eus/eu/web/eudia/home) ikerketa taldeko partaide.
+
+Aurrez, Didaktika eta Eskola Antolakuntza sailean irakasle  Bilbo eta Gasteizko Irakasleen Unibertsitate Eskoletan, 2011ko urtarriletik.
+
+## Aurretik ikerketan:
+
+* Tesi proiektua: [Zailtasunak aditz jokatuaren inguruan B2-C1 ibilbidean](https://addi.ehu.es/handle/10810/25306)
+* Antorpologian ikasle: Immigrazioa eta hizkuntzak Euskal Herrian. Bizkaiko kasua. XVII Congreso de Estudios Vascos: Gizarte aurrerapen iraunkorrerako berrikuntza. Gasteiz, 2009
+* Pedagogia ikasle: Argentinan Euskaraz. Erabiltzaile eta bultzatzaileen helburuak eta ekintzak harremanean. Euskal Herria Mugaz Gaindi, Baiona, 2007-10-07
+
+
+## Aurretik irakasle:
+
+* Zornotzako Barnetegian
+* Gernikako Aita Villasante Udal Euskaltegian
+* Ordezko Lekeitiko Resurrección Maria de Azkue ikastolan
+* Nagusi eta umeentzako musika-tailerretan
+* Eskola partikularrak nagusi eta umeei, irak-idaz trebetasunetan eta hizkuntza klaseetan.
+
+## Aurretik langile:
+
+* Tabernari (barman)
+* Tabernari (sukaldari)
+* Tabernari (jangela eroale)
+* Operario (MCC-k espolatatua)
+* Hondartzain
+* Udaltzain
+* Libruruzain
+* Korreo banatzaile
+* ...
+
+
+
+
 
 ```{r, child="_sessioninfo.Rmd"}
 ```

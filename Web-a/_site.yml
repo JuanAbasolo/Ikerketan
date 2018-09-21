@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Etxea"
       href: index.html
-    - text: "Honi buruz"
+    - text: "Nire gainean"
       href: about.html
 output:
   html_document:
