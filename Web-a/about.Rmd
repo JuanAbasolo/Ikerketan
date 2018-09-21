@@ -2,11 +2,19 @@
 title: "About me"
 ---
 
-Argentinan jaio hazi eta bertatik 22 urte nituela emigratu nuen Euskal Herrira. Behin etorrita hainbat jardun eta zereginetan ibili naiz. Orain 15 bat urte ibilbide akademikoan hasi nintzen eta 2011tik karrera akademikoan. 
+Argentinan jaio hazi eta bertatik 22 urte nituela emigratu nuen Euskal Herrira. Behin etorrita hainbat jardun eta zereginetan ibili naiz. Orain 15 bat urte ibilbide akademikoan hasi nintzen eta 2011tik karrera akademikoan. Aita, senar, berbaldun eta ikertzaile-irakaslea.
 
 Kontaktua:  [![](./irudiak/telegramen.svg)](http://t.me/JuanAbasolo) [:e-mail: ](mailto:juan.abasolo@ehu.eus) 
 
-Ikasketak:
+ORCID: [0000-0002-1911-4118](https://orcid.org/0000-0002-1911-4118)
+
+## Aurretik ikerketan
+
+* Tesi proiektua: [Zailtasunak aditz jokatuaren inguruan B2-C1 ibilbidean](https://addi.ehu.es/handle/10810/25306)
+* Antorpologian ikasle: Immigrazioa eta hizkuntzak Euskal Herrian. Bizkaiko kasua. XVII Congreso de Estudios Vascos: Gizarte aurrerapen iraunkorrerako berrikuntza. Gasteiz, 2009
+* Pedagogia ikasle: Argentinan Euskaraz. Erabiltzaile eta bultzatzaileen helburuak eta ekintzak harremanean. Euskal Herria Mugaz Gaindi, Baiona, 2007-10-07
+
+### Ikasketak
 
 * Psikodidaktikan Doktorea 2017
 * Pedagokian lizentziatua 2007
@@ -16,14 +24,8 @@ Ikasketak:
 
 Aurrez, Didaktika eta Eskola Antolakuntza sailean irakasle  Bilbo eta Gasteizko Irakasleen Unibertsitate Eskoletan, 2011ko urtarriletik.
 
-## Aurretik ikerketan:
 
-* Tesi proiektua: [Zailtasunak aditz jokatuaren inguruan B2-C1 ibilbidean](https://addi.ehu.es/handle/10810/25306)
-* Antorpologian ikasle: Immigrazioa eta hizkuntzak Euskal Herrian. Bizkaiko kasua. XVII Congreso de Estudios Vascos: Gizarte aurrerapen iraunkorrerako berrikuntza. Gasteiz, 2009
-* Pedagogia ikasle: Argentinan Euskaraz. Erabiltzaile eta bultzatzaileen helburuak eta ekintzak harremanean. Euskal Herria Mugaz Gaindi, Baiona, 2007-10-07
-
-
-## Aurretik irakasle:
+### Aurretik irakasle
 
 * Zornotzako Barnetegian
 * Gernikako Aita Villasante Udal Euskaltegian
@@ -31,7 +33,7 @@ Aurrez, Didaktika eta Eskola Antolakuntza sailean irakasle  Bilbo eta Gasteizko 
 * Nagusi eta umeentzako musika-tailerretan
 * Eskola partikularrak nagusi eta umeei, irak-idaz trebetasunetan eta hizkuntza klaseetan.
 
-## Aurretik langile:
+### Aurretik langile
 
 * Tabernari (barman)
 * Tabernari (sukaldari)
