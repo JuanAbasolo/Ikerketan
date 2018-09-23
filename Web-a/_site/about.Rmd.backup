@@ -10,7 +10,7 @@ Aita, senar, berbaldun eta ikertzaile-irakaslea. Hona nire zenbait datu eta aurk
 
 ORCID: [0000-0002-1911-4118](https://orcid.org/0000-0002-1911-4118)
 
-Lan postuaren izena: PROFESORADO LABORAL INTERINO
+PROFESORADO LABORAL INTERINO
 
 ### Kontaktua:  [![](./irudiak/telegramen.svg)](http://t.me/JuanAbasolo) 
 
@@ -77,6 +77,9 @@ Aurrez, Didaktika eta Eskola Antolakuntza sailean irakasle  Bilbo eta Gasteizko 
 * Libruruzain
 * Korreo banatzaile
 * ...
+
+
+
 
 
 ```{r, child="_sessioninfo.Rmd"}
