@@ -12,6 +12,8 @@ Aurkezpenak, datuak eta beste daude honetan. Gauza zaharragoak-eta, gehienbat do
 
 IPAko kodeketatik abiatuta, lemak bereizteko prozesuaren ahalegina [hemen](https://juanabasolo.github.io/Ikerketan/1809-Distantziak_eta_alineR.html)
 
+Galdetegietako eta herrietako aldagarritasuna aztertzeko ideia batzuk [hemen](./1810-AldagarritasunazWEB.html)
+
 ## Irakaskuntzaz
 
 ![](http://www.senalar.com.ar/resources/cat_transitorias/tra_T6.jpg)
